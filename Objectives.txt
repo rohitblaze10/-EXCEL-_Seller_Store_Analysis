@@ -1,0 +1,8 @@
+Objectives:
+1) Compare the sales and orders using single chart
+2)Which month got the highest sales and orders.
+3)Who purchased more Men or Women
+4)List top 10 states contributing on the sales?
+5)Relation between age and gender based on Number of Orders
+6)Which channel is contributing to maximum sales?
+7)Highest selling Category?
