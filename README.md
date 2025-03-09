@@ -11,6 +11,6 @@ Data Visualization: Creating interactive and static charts, graphs, and dashboar
 ## 🛠 Tools & Techniques:
 Excel Functions: VLOOKUP, INDEX/MATCH, PivotTables, Conditional Formatting
 Charts & Visualizations: Bar, line, pie charts, scatter plots, and more
-Data Analysis: Descriptive statistics, trend analysis, and forecasting
+Data Analysis: Descriptive statistics, trend analysis, and forecasting.
 
 ## Feel free to explore the individual projects, use the files for learning, or adapt them for your own data analysis needs. Contributions, feedback, and suggestions are always welcome!
